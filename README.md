@@ -8,6 +8,7 @@ Este código implementa um modelo de rede neural convolucional (CNN) para o trei
 4. Luiz Henrique Alves Ferreira
 5. Paulo Sérgio da Silva Medeiros
 6. Vinicius Eduardo Freitas de Sales
+7. Rafael Alexander de Souza Brito
 
 ## Como Rodar o Código
 
