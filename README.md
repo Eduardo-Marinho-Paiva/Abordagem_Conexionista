@@ -2,6 +2,13 @@
 
 Este código implementa um modelo de rede neural convolucional (CNN) para o treinamento e avaliação em um dataset de imagens de dígitos manuscritos (MNIST). O código utiliza PyTorch e Torchvision para carregar e treinar o modelo, e visualiza as previsões do modelo com a ajuda do Matplotlib.
 
+## Colaboradores
+1. Eduardo Marinho de Paiva
+3. João Guilherme Bezerra Santos
+4. Luiz Henrique Alves Ferreira
+5. Paulo Sérgio da Silva Medeiros
+6. Vinicius Eduardo Freitas de Sales
+
 ## Como Rodar o Código
 
 ### Rodar na Sua Máquina
